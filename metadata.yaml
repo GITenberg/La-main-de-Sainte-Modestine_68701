@@ -1,0 +1,33 @@
+_repo: La-main-de-Sainte-Modestine_68701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schultz, Jeanne
+    aliases:
+    - Saint Hilaire, Philippe
+    - Hilaire, Philippe Saint
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '53903'
+    url: http://www.gutenberg.org/2009/agents/53903
+    wikipedia: https://fr.wikipedia.org/wiki/Jeanne_Schultz
+description: ''
+gutenberg_issued: '2022-08-06'
+identifiers:
+  gutenberg: '68701'
+language: fr
+pgterms:marc904: https://hdl.handle.net/2027/pst.000020500504
+pgterms:marc905: 20211106061055schultz
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :Nelson,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La main de Sainte Modestine
+url: http://www.gutenberg.org/ebooks/68701
